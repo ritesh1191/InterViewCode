@@ -29,13 +29,13 @@ InterViewCode is a real-time code collaboration web application that allows mult
 Clone the project
 
 ```bash
-  git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+  git clone https://github.com/YOUR-USERNAME/InterViewCode.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd InterViewCode
+  cd InterViewCode-main
 ```
 
 Install dependencies
