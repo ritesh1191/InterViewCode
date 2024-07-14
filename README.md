@@ -19,7 +19,7 @@ InterViewCode is a real-time code collaboration web application that allows mult
 
 
 ## Usage
-1. Open the CodeCast live demo.
+1. Open the InterViewCode Application Home Page.
 2. Enter a Room ID or generate a new one.
 3. Set your username.
 4. Start collaborating with others in the same room.
