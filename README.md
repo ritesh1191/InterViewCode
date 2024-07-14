@@ -26,7 +26,7 @@ InterViewCode is a real-time code collaboration web application that allows mult
 
 ## Video
 
-- https://drive.google.com/file/d/1dQzSbjc2kKxbKz9eSt5CSoAG-G_5akUn/view?usp=sharing
+https://github.com/user-attachments/assets/c99dc3bf-0161-46ad-8736-300cd3eb5fe1
 
 
 ## Run Locally
