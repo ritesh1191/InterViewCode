@@ -26,7 +26,7 @@ InterViewCode is a real-time code collaboration web application that allows mult
 
 ## Video
 
-https://github.com/user-attachments/assets/b34ea2ba-e500-47a9-9f21-5a55f3ea8954
+- https://drive.google.com/file/d/1dQzSbjc2kKxbKz9eSt5CSoAG-G_5akUn/view?usp=sharing
 
 
 ## Run Locally
@@ -40,7 +40,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd InterViewCode-main
+  cd InterViewCode
 ```
 
 Install dependencies
