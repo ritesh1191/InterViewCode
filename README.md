@@ -24,20 +24,16 @@ InterViewCode is a real-time code collaboration web application that allows mult
 3. Set your username.
 4. Start collaborating with others in the same room.
 
-## Video
-
-https://github.com/user-attachments/assets/c99dc3bf-0161-46ad-8736-300cd3eb5fe1
 
 ## Photos
 
-- Home Page
+- Join Room Page
 
-![image](https://github.com/user-attachments/assets/e092c578-ea83-4ca0-9beb-eec1500cdc53)
 
 
 - Editor Page
 
-![image](https://github.com/user-attachments/assets/7dcef189-b242-4880-98e6-7667bcfe0a56)
+
 
 
 ## Run Locally
