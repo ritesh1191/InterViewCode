@@ -1,5 +1,5 @@
-# InterViewCode
-InterViewCode is a real-time code collaboration web application that allows multiple users to collaborate on code in the same virtual room. It's built using the Express.js, React, Node.js, Bootstrap and Socket.IO for real-time communication.
+# CodeColab
+CodeColab is a real-time code collaboration web application that allows multiple users to collaborate on code in the same virtual room. It's built using the Express.js, React, Node.js, Bootstrap and Socket.IO for real-time communication.
 
 ## Features
 - Create or join a virtual "room" by entering a room ID.
@@ -20,7 +20,7 @@ InterViewCode is a real-time code collaboration web application that allows mult
 
 
 ## Usage
-1. Open the InterViewCode Application Home Page.
+1. Open the CodeColab Application Home Page.
 2. Enter a Room ID or generate a new one.
 3. Set your username.
 4. Start collaborating with others in the same room.
@@ -30,16 +30,17 @@ InterViewCode is a real-time code collaboration web application that allows mult
 
 - Join Room Page
 
-  <img width="1279" alt="Join Room page" src="https://github.com/user-attachments/assets/4227a719-f070-447a-bdc6-ef5e4f6b7d72" />
+<img width="1279" alt="Join Room page" src="https://github.com/user-attachments/assets/4227a719-f070-447a-bdc6-ef5e4f6b7d72" />
 
 
 - Editor Page
   
 <img width="1278" alt="Editor Page" src="https://github.com/user-attachments/assets/4137ad6a-9463-4ced-9bab-8ae4b6cae6c1" />
 
+
 - Multiple People Collaborating on same code
   
-  https://github.com/user-attachments/assets/d47fec2c-8acf-44ad-b05f-3e696033717f
+https://github.com/user-attachments/assets/d47fec2c-8acf-44ad-b05f-3e696033717f
 
 
 
@@ -49,13 +50,13 @@ InterViewCode is a real-time code collaboration web application that allows mult
 Clone the project
 
 ```bash
-  git clone https://github.com/YOUR-USERNAME/InterViewCode.git
+  git clone https://github.com/YOUR-USERNAME/CodeColab.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd InterViewCode
+  cd CodeColab
 ```
 
 Install dependencies
