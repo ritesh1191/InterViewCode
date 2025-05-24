@@ -6,6 +6,7 @@ InterViewCode is a real-time code collaboration web application that allows mult
 - Set your username to identify yourself in the room.
 - Real-time code collaboration with other users in the same room.
 - Changes made by one user are instantly reflected on all connected clients.
+- Realtime Tag of whos currently typing in editor.
 - Code highlighting and editor customization options.
 
 
@@ -29,9 +30,16 @@ InterViewCode is a real-time code collaboration web application that allows mult
 
 - Join Room Page
 
+  <img width="1279" alt="Join Room page" src="https://github.com/user-attachments/assets/4227a719-f070-447a-bdc6-ef5e4f6b7d72" />
 
 
 - Editor Page
+  
+<img width="1278" alt="Editor Page" src="https://github.com/user-attachments/assets/4137ad6a-9463-4ced-9bab-8ae4b6cae6c1" />
+
+- Multiple People Collaborating on same code
+  
+  https://github.com/user-attachments/assets/d47fec2c-8acf-44ad-b05f-3e696033717f
 
 
 
@@ -61,6 +69,10 @@ Install dependencies
   cd server
   npm install
 ```
+
+
+
+
 
 Start Application
 
